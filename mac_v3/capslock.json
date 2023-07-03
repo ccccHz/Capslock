@@ -5067,7 +5067,7 @@
           ]
         },
         {
-          "description": "f = Alfred 4",
+          "description": "f = opencat",
           "type": "basic",
           "from": {
             "key_code": "f",
@@ -5082,7 +5082,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Alfred 4'"
+              "shell_command": "open -a 'opencat'"
             }
           ]
         },
